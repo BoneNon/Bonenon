@@ -3,6 +3,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoneNon&hide_border=true&layout=compact" align="left" />
 
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
 <!--
 **BoneNon/Bonenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
